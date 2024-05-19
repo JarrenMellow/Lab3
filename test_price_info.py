@@ -17,6 +17,8 @@ def test_cost_of_fruit():
    result = price_info.cost_of_fruits('apple',20)
    assert(result==24)
 
+   
+
 
 
 
